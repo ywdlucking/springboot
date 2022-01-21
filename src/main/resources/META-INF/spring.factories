@@ -1,0 +1,4 @@
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+  com.ywd.boot.analyzer.IllegalArgumentFailureAnalyzer,\
+  com.ywd.boot.analyzer.NullPointerFailureAnalyzer
+
